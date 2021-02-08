@@ -62,6 +62,10 @@ ul.spisok li a {
     text-decoration: none;
     color: black;
 }
+ul.spisok li a:hover {
+    text-decoration: underline;
+    color: #e459ef;
+}
 #footer {
     width: 950px;
     height: 51px;
